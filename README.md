@@ -65,7 +65,7 @@ Hauek dira konexioak:
 * 9 potentziometroak, zarataren maila igo edo jeisten du.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/9%20pot.jpg">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/9%20pot.PNG">
 </p>
 
 
@@ -81,7 +81,7 @@ Hauek dira konexioak:
 * 17potentziometroak, seinalearen tonalidadea aldatzen du, adibidez giltza klabea, fa klabea... baita ere ledaren argia.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/8%20pot.jpg">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/8%20pot.PNG">
 </p>
 
 
@@ -100,7 +100,7 @@ Hauek dira konexioak:
 Botoi bakoitzak soinu desberdin bat du, eta barnean led bat du. Soinu hauek potentziometroen bidez modifikatu egiten dira. Led-ak, berriz, potentziometroen bidez kolorez aldatzen dira.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/BOTOIAK.png">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/botones.PNG">
 </p>
 
 
