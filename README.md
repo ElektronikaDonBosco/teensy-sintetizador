@@ -86,10 +86,10 @@ Hauek dira konexioak:
 
 
 ## SLIE POTS-AK
-* Lehenengo slide potentziometroak, filtroaren atakea. Botoia sakatzen den momentutik, zenbat denbora igarotzen dduen bere funtzioa egin arte. 
-* Bigarren slide potentziometroak,
-* Hirugarren slide potentziometroak, 
-* Laugarren slide potentziometroak, 
+* Lehenengo slide potentziometroak, attack: filtro eta anplifikagailuak soinua sortu eta zenbat denborara egingo duen eragina aldatzen du
+* Bigarren slide potentziometroak, decay: soinua itzaltzean egiten duen kurba definitzen du
+* Hirugarren slide potentziometroak, sustain: soinuak zenbat iraungo duen definitzen du
+* Laugarren slide potentziometroak, release: filtroa eta anplifikagailuaren efektua noiz etengo den definitzen du
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/SLIDE%20POTS.png">
