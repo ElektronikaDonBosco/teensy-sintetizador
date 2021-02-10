@@ -144,7 +144,45 @@ https://github.com/otem/teensypolysynth/blob/master/teensypolysynth.ino
 ## Teensy Audio Library
 Soinua sintetizatzea, erreproduzitzea eta analisia erraztea da software honen helburu nagusia. Liburutegiak hainbat audio “objektu” eskeintzen ditu, Arduinoko sketch-a abian dagoen bitartean prozesa daitezkeenak. Objektu hauek Arduinoko funtzio simple bidez kontrola daitezke.
 
-# ESKEMA ELEKTRIKOAK ETA PCB-AK
+# ESKEMA ELEKTRIKOA
+
+<p align="center">Power eta Audio
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">9 eta 8 Potentziometroak eta Mux
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">Teensy 3.2 eta Teensy Audio Shield
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">1. Botonera
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">2. Botonera
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">Amplifikagailuda
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+# ESKEMA ELEKTRONIKOAK ETA PCB-AK
 Eskema elektrikoa arduinoaren programatik atera dugu. Bertan elementu bakoitza zein pinera doazen aurkituz. Hau egiten genuen bitartean proteusean konektoreak erabiliz, konexio guztiak jartzen lortu genuen eskema elektriko honetako zati guztiak batzea.
 
 ## ESKEMA OSOA
