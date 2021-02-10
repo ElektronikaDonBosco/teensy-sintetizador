@@ -11,7 +11,7 @@ Azkenik, aipatutakoa lortzean, eginiko karkasan ongi ensanblatu behar genuen, ho
 
 
 # PROIEKTUAREN ZATIAK
-Ondorengo argazkian, gure proiektuko eskemako blokeak ikus ditzazkegu.
+Ondorengo argazkian, gure proiektuko zati guztiak denak batera ikus ditzazkegu.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/teensy.jpg">
