@@ -177,7 +177,7 @@ Eskema elektronikoari esker, kable bakoitza nora konektatua dijoan agertzen dene
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/5.PNG">
 </p>
 
-<p align="center">Amplifikagailuda
+<p align="center">Anplifikagailuda
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/6.PNG">
