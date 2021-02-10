@@ -193,6 +193,19 @@ Beheko irudia eskema guztia da, hain bat zatitan banatzen da, eta muntaia ere za
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/eskemak%20eta%20pcb/eskema%20osoa.PNG">
 </p>
 
+## 9 PLAKA NAGUSIA
+9 potentziometroak mux-aren lehenengo bederatzi pinetara doaz ordenean, C0-tik C8-ra. Gure kasuankonektore bidez egin ditugu konexioak.
+
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+
 ## 9 POTENTZIOMETROAK
 9 potentziometroak mux-aren lehenengo bederatzi pinetara doaz ordenean, C0-tik C8-ra. Gure kasuankonektore bidez egin ditugu konexioak.
 
