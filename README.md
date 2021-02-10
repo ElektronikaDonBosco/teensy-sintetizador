@@ -183,7 +183,7 @@ Soinua sintetizatzea, erreproduzitzea eta analisia erraztea da software honen he
 </p>
 
 # ESKEMA ELEKTRONIKOAK ETA PCB-AK
-Eskema elektrikoa arduinoaren programatik atera dugu. Bertan elementu bakoitza zein pinera doazen aurkituz. Hau egiten genuen bitartean proteusean konektoreak erabiliz, konexio guztiak jartzen lortu genuen eskema elektriko honetako zati guztiak batzea.
+Eskema elektronikoa arduinoaren programatik atera dugu. Bertan elementu bakoitza zein pinera doazen aurkituz. Hau egiten genuen bitartean proteusean konektoreak erabiliz, konexio guztiak jartzen lortu genuen eskema elektroniko honetako zati guztiak batzea.
 
 ## ESKEMA OSOA
 Beheko irudia eskema guztia da, hain bat zatitan banatzen da, eta muntaia ere zatika egin dugu.
