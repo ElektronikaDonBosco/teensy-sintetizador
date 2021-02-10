@@ -145,41 +145,42 @@ https://github.com/otem/teensypolysynth/blob/master/teensypolysynth.ino
 Soinua sintetizatzea, erreproduzitzea eta analisia erraztea da software honen helburu nagusia. Liburutegiak hainbat audio “objektu” eskeintzen ditu, Arduinoko sketch-a abian dagoen bitartean prozesa daitezkeenak. Objektu hauek Arduinoko funtzio simple bidez kontrola daitezke.
 
 # ESKEMA ELEKTRIKOA
+Eskema elektronikoari esker, kable bakoitza nora konektatua dijoan agertzen denez, muntatzerako orduan erreztasun handiagoa baitdago.
 
 <p align="center">Power eta Audio
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/1.PNG">
 </p>
 
 <p align="center">9 eta 8 Potentziometroak eta Mux
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/2.PNG">
 </p>
 
 <p align="center">Teensy 3.2 eta Teensy Audio Shield
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/3.PNG">
 </p>
 
 <p align="center">1. Botonera
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/4.PNG">
 </p>
 
 <p align="center">2. Botonera
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/5.PNG">
 </p>
 
 <p align="center">Amplifikagailuda
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/Eskema%20elektrikoak/6.PNG">
 </p>
 
 # ESKEMA ELEKTRONIKOAK ETA PCB-AK
