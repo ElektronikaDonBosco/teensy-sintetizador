@@ -132,7 +132,7 @@ Hau jakinda botoi bat sakatzerakoan eta potentziometro bat eraginez soinu bat ed
 Hamargarren potentziometroa frekuentziaren mozketa egiten du, hau da lfo ren mozketa. Hamaikagarrena soinuaren luzapena egiten du baino piskanaka soinua itzaltzen du, hamabi garrena LFO-ren modulatzen du.  Hamairugarrena Filtroren modulazioa anulatzen du.
 Hamalaugarrena eta hamabost-garrena delay-ak dira lehenengoa denbora delay-a eta bigarrena botoia soltatu ondoren zenbat tardatzen duen soinua itzaltzen.  Bukatzeko hamaseigarrena Bi ahotsen huin zabalera modifikatzen du.
 
-Bukatzeko lau slide pots dauzkagu, 
+Bukatzeko lau slide pots dauzkagu. Slide Pots-ak beste eratako potentziometroak dira. Lehenengo Slide Pots-ak, attack: filtro eta anplifikagailuak soinua sortu eta zenbat denborara egingo duen eragina aldatzen du. Bigarren Slide pots-ak, decay: soinua itzaltzean egiten duen kurba definitzen du. Hirugarren Slide pots-ak, sustain: soinuak zenbat iraungo duen definitzen du. Laugarren Slide pots-ak, release: filtroa eta anplifikagailuaren efektua noiz etengo den definitzen du.
 
 
 # SOFTWAREA
