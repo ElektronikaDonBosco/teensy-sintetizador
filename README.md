@@ -311,11 +311,13 @@ Pieza honen dimentsioak 26,1cm x 6,3cm x 0,8cm-koak dira
 
 
 # IZANDAKO ARAZOAK
-Informazio gutxi
-Eskema elektrikoa
-Plakak
-Materialen erredurak
-Aduanak
+Egia esan arazo asko eduki ditugu Teensy Sintetizadorearen proiektuan. Alde bateti, oso informazio gutxi zegoen honi buruz, pare bat bideo zeuden baina oso informazio esakarekin. Informazio gehiena probak eginda eta arazoetatik konklusioak atera lortu dugu.
+
+Beste aldetik, eskema elektrikoa ez zegon. Hasiera batetik 0-tik abiatu gara, soilik arduino programa zegoen eta andik alderantzizko ingeneritza egin behar izan dugu potentziometro, slide pots, botoiak, aplifikagailu... bakoitzak egokitzen zaion pinera konektatzeko.
+
+Izandako beste arazo bat, materialen erredurak Plaka asko diseinatu ditugu, baina plaka asko erabilgarriak ez ziren. Askotan makina gaizki fresatu egin zuen, beste batzuetan diseinatutako PCB-a gaizki diseinatua zegoen eta konponeneak ez ziren sartzen edo gaizki jartzen ziren. Baita ere, materiala erre da, slide pots-ak proba batean erre genitun eta beste slide pots modelo batzuk erosi behr izan genitun aurrekoak erosten bagenitun ezarritako datarako ez ziren iristen.
+
+Azkenik, Hong Kong-etik zetorren guk diseinatutako plaka aduanak atxiki zuten. Aste bateko atzeramenduarekin jolastu dugu eta plaka etorri bezain azkar konponente SMD-ak soldatu eta dena hor konektatu eta dena ondo funtzionatu behar zuen, denbora gehiago ez zegolako.
 
 
 # ONDORIOAK
