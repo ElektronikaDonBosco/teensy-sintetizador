@@ -108,7 +108,7 @@ Botoi bakoitzak soinu desberdin bat du, eta barnean led bat du. Soinu hauek pote
 Honen bidez soinuare bolumena igo edo jaisten dugu.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/bolumena.jpg">
+  <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/VOLUMEN.PNG">
 </p>
 
 
