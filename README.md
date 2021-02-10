@@ -121,16 +121,16 @@ Switch-aren bidez sintetizadorea funtzionarazten du, honen bidez plaka guztiak e
 
 
 # FUNTZIONAMENDUA
-Hasiera batean  bi switch ditugu pizteko, lehenengoa elikadura pizten du eta bigarrena slide pots pizten dute, bigarren honek pizterakoan led bat pizten du. Dena elikatua dagoela sintetizadorea erabili dezakegu, 8 botoi dauzkagu, botoi bakoitza nota bat izango da. Lehenengo,laugarren eta zortzigarren potentziometroak huinaren forma aldatzen du eta azkenekoa bi uhin forma  berri dauka. Azkeneko potentziometroa, hau da, A13 pineko potentziometroa Klabea aldatzen du, hau da, hasieran sol ikurran badago, fa giltzadura aldatu dezakegu.Honek ere botoietako led-ak eragiten du, hau da, kolorea aldatzen dio.
+Hasiera batean  bi switch ditugu pizteko, lehenengoak elikadura pizten du eta bigarrenak slide pots-ak pizten ditu, bigarren honek pizterakoan led bat pizten du. Dena elikatua dagoela sintetizadorea erabili dezakegu, 8 botoi dauzkagu, botoi bakoitza nota bat izango da. Lehenengo,laugarren eta zortzigarren potentziometroak uhinaren forma aldatzen du eta azkenekoak bi uhin forma  berri dauzka. Azkeneko potentziometroak, hau da, A13 pineko potentziometroak Klabea aldatzen du, hau da, hasieran sol ikurran badago, fa ikurrera aldatu dezakegu.Honek ere botoietako led-ak eragiten du, hau da, kolorea aldatzen dio.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/foto%20carlos.png">
 </p>
 
-Hau jakinda botoi bat sakatzerakoan eta potentziometro bat eraginez soinu bat edo beste bat edukukio dugu. Lehenengo eta laugarren potentziometroak  soinuaren zortziko-a aldatzen du botoien nota aldatzeko. Zazpigarren potentzionmetroa soinuaren frekuentzia aldatzen du eta leden dizdira ere bai, bederatzigarren potentziometroa soinuaren zarata kontrolatzen du. Hieugarren potentziometroa eta seigarrena ahotzen bazkla bat egiten du, baino seigarrrena nota aldatzen du. 
+Hau jakinda botoi bat sakatzerakoan eta potentziometro baten eraginez soinu bat edo beste bat edukukiko dugu. Lehenengo eta laugarren potentziometroak  soinuaren zortziko-a aldatzen du botoien nota aldatzeko. Zazpigarren potentzionmetroak soinuaren frekuentzia aldatzen du eta leden distira ere bai, bederatzigarren potentziometroak soinuaren zarata kontrolatzen du. Hieugarren potentziometroak eta seigarrenak ahotsen bazkla bat egiten du, baino seigarrenak nota aldatzen du. 
 
-Hamargarren potentziometroa frekuentziaren mozketa egiten du, hau da lfo ren mozketa. Hamaikagarrena soinuaren luzapena egiten du baino piskanaka soinua itzaltzen du, hamabi garrena LFO-ren modulatzen du.  Hamairugarrena Filtroren modulazioa anulatzen du.
-Hamalaugarrena eta hamabost-garrena delay-ak dira lehenengoa denbora delay-a eta bigarrena botoia soltatu ondoren zenbat tardatzen duen soinua itzaltzen.  Bukatzeko hamaseigarrena Bi ahotsen huin zabalera modifikatzen du.
+Hamargarren potentziometroak frekuentziaren mozketa egiten du, hau da lfo ren mozketa. Hamaikagarrenak soinuaren luzapena egiten du baino pixkanaka soinua itzaltzen du, hamabi garrena LFO-ren modulatzen du.  Hamairugarrena Filtroren modulazioa anulatzen du.
+Hamalaugarrenak eta hamabostgarrenak delay-ak dira lehenengoa denbora delay-a eta bigarrena botoia soltatu ondoren zenbat tardatzen duen soinua itzaltzen.  Bukatzeko hamaseigarrenak Bi ahotsen uhinen zabalera modifikatzen du.
 
 Bukatzeko lau slide pots dauzkagu. Slide Pots-ak beste eratako potentziometroak dira. Lehenengo Slide Pots-ak, attack: filtro eta anplifikagailuak soinua sortu eta zenbat denborara egingo duen eragina aldatzen du. Bigarren Slide pots-ak, decay: soinua itzaltzean egiten duen kurba definitzen du. Hirugarren Slide pots-ak, sustain: soinuak zenbat iraungo duen definitzen du. Laugarren Slide pots-ak, release: filtroa eta anplifikagailuaren efektua noiz etengo den definitzen du.
 
