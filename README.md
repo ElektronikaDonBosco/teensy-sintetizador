@@ -98,7 +98,11 @@ Plaka hauek erabili ditugu gure soinuaren irteerak anplifikatzeko, honek PWR bi 
 
 
 ## BOTOIAK
-Plaka hauek 12 pin izango dituzte. Azpiko aldean, sarrerak egongo dira, switch pin-ean botoiaren elikadura izango da eta beste hirurek koloreak zeazten dutenak izango dira, hau da, gorria, berdea eta urdina, hauek tennsy-ren 3, 4 eta 5 pin-etara konektatuko dira. Beste 8 pinak, 4 botoien irteerak izango dira, hau da, switch (gnd) eta beste 4-ak ledak eliktzeko (led-gnd) izango dira. Botoien irteerak pull-down erara konekatu behar ditugu, beraz resistentzia eta botoiaren tartetik tennsy-ra konektatu behar dugu. Botoiak sakatzerakoan soinu bat erreproduzituko da. Botoien ledak 3 potentziometroen menpe egongo dira, lehenengoa, kolore aldaketa egingo du, bigarrena, kolereen nahasketa egingo du eta azkenekoa, argien dardarra aldatu-ko du, hau da azkarrago edo motelago joango dira.
+8 botoi daude, 21, 20, 17, 16, 8, 2, 1, 0 pinetan konektatuak
+Botoien ledak
+*3 pinera Led Gorria
+*4 pinera Led Berdea
+*5 pinera Led Urdina
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/botones.PNG">
