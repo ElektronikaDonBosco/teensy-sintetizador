@@ -100,9 +100,9 @@ Plaka hauek erabili ditugu gure soinuaren irteerak anplifikatzeko, honek PWR bi 
 ## BOTOIAK
 8 botoi daude, 21, 20, 17, 16, 8, 2, 1, 0 pinetan konektatuak
 Botoien ledak
-*3 pinera Led Gorria
-*4 pinera Led Berdea
-*5 pinera Led Urdina
+* 3 pinera Led Gorria
+* 4 pinera Led Berdea
+* 5 pinera Led Urdina
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/botones.PNG">
