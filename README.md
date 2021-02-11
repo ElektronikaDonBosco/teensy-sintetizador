@@ -326,7 +326,11 @@ Azkenik, Hong Kong-etik zetorren guk diseinatutako plaka aduanak atxiki zuten. A
 
 
 # ONDORIOAK
+Oso pozik gauede gure proiektuaren emaitzarekin, planifikatutako egun tartean egon gara. Gure helburuak eta eskolako helburuak betetzea lortu dugu, hiruen eta irakaslearen lanarekin.
 
+Oso ondo planifikatu behar da dena, denbora oso azkar pasa egiten da eta ez zara konturatzen. 
+
+Plaken diseinuak oso ondo begiratu behar da, ahin bat plakak egin ditugu eta gaizki diseinatuak zeuden edo LPKF makinak gaizki fresatu egin du.
 
 
 # ERREFERENTZIAK
