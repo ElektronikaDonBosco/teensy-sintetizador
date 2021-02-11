@@ -51,7 +51,7 @@ Hauek dira konexioak:
 
 
 # ANPLIFIKAGAILUA
-Plaka hauek erabili ditugu gure soinuaren irteerak anplificatzeko, honek PWR bi pintan elikatu behar dugu gainekoa GND rekin eta erdikoan 5v-ekin. Ondoren goiko parteko input-eko pinetan tennsy-ren irteerak konenktautu behar dugu negatiboan GND pinarekin, GND pin bat soilik dagoenez puenteatu behar izan dugu, eta positiboa L (ezkerreko anplifikagailura) edo R (eskubiko anplifikagailura) irteera-rekin. Bukatzeko outup irteeran bi pin izango ditugo bat negatiboa izango dela lurra eta positiboa.
+Plaka hauek erabili ditugu gure soinuaren irteerak anplifikatzeko, honek PWR bi pin-etan elikatu behar dugu gainekoa GND-rekin eta erdikoan 5v-ekin. Ondoren goiko parteko input-eko pinetan tennsy-ren irteerak konenktautu behar dugu negatiboan, GND pina-rekin, GND pin bat soilik dagoenez puenteatu behar izan dugu. Positiboa L (ezkerreko anplifikagailura) edo R (eskubiko anplifikagailura) irteera-rekin. Bukatzeko outup irteeran bi pin izango ditugo bat negatiboa izango dela lurra eta positiboa.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ccv3/teensy-sintetizador/blob/circleci-project-setup/argazkiak/parteak/ampli.png">
